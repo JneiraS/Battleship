@@ -2,7 +2,7 @@
 
 ## Description
 
-Le jeu de Bataille Navale est un classique des jeux de stratégie sur plateau, désormais disponible sous forme numérique grâce à notre application. Placez vos bateaux, tirez à l'aveugle et coulez tous les bateaux adverses avant qu'il ne fasse de même avec les vôtres !
+Le jeu de Bataille Navale est un classique des jeux de stratégie sur plateau, désormais disponible sous forme numérique grâce à notre application. !
 
 ## Installation
 
